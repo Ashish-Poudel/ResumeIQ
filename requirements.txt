@@ -1,0 +1,18 @@
+
+# Web interface
+streamlit
+
+# Extract text from PDF resumes
+pymupdf
+
+# Read DOCX resumes
+python-docx
+
+# TF-IDF, cosine similarity, and machine learning utilities
+scikit-learn
+
+# Generate text embeddings for semantic similarity
+sentence-transformers
+
+# Run project tests
+pytest
