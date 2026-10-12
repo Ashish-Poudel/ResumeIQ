@@ -90,6 +90,19 @@ The first semantic analysis may take longer because the pretrained Sentence Tran
 7. Rule-based logic generates resume improvement suggestions.
 8. Streamlit displays the results.
 
+## Application Screenshots
+
+
+![ResumeIQ Dashboard](screenshots/resumeiq-demo-1.png)
+
+
+
+![ResumeIQ Matching Results](screenshots/resumeiq-demo-2.png)
+
+
+
+![ResumeIQ Skill Analysis](screenshots/resumeiq-demo-3.png)
+
 ## Understanding the Scores
 
 - **Text Similarity:** Measures overlap in wording between the resume and job description.
