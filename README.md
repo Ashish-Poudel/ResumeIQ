@@ -44,11 +44,10 @@ The `sample_data` and `tests` folders are included if present in the project.
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Ashish-Poudel/ResumeIQ.git
 cd ResumeIQ
 ```
 
-Replace `YOUR_GITHUB_REPOSITORY_URL` with the repository URL after publishing the project.
 
 ### 2. Create a virtual environment
 
